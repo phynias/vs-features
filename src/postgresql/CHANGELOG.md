@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.8.0](https://github.com/phynias/vs-features/compare/postgresql-v1.7.0...postgresql-v1.8.0) (2025-06-13)
+
+
+### Features
+
+* **postgresql:** Support v17 ([e2365e9](https://github.com/phynias/vs-features/commit/e2365e9b37730efc98af2bc480ab75808522ee63))
+* **postgresql:** Support v17 ([886de68](https://github.com/phynias/vs-features/commit/886de68f9426c4050d0fed6bd85e67e4e4e47e7b))
+* Support `noble` ubuntu ([c2a251a](https://github.com/phynias/vs-features/commit/c2a251aafc58c1d121cd6f07e36d4031921ee219))
+* Use `ms-ossdata.vscode-pgsql` vscode extension ([4552203](https://github.com/phynias/vs-features/commit/4552203b5efac680708478b77b091ff17346e3ea)), closes [#45](https://github.com/phynias/vs-features/issues/45)
+
+
+### Bug Fixes
+
+* **postgresql:** Allow connections after container is recreated ([38286cb](https://github.com/phynias/vs-features/commit/38286cbd669acc58e79732ce20fb71a25ec17ac9))
+* **postgresql:** Database initialization on creation only ([4d6a1ec](https://github.com/phynias/vs-features/commit/4d6a1eccc7e00873ef783e2e0e9fd3ce6d0016e8))
+* **postgresql:** Support IPv6 ([3db6c0d](https://github.com/phynias/vs-features/commit/3db6c0da7e772fd669347f7380a7a427cc69548a))
+* **postgresql:** Support IPv6 ([1c4d1e0](https://github.com/phynias/vs-features/commit/1c4d1e0c9971c8912068d485f2705bfff0c44383))
+
 ## [1.7.0](https://github.com/itsmechlark/features/compare/postgresql-v1.6.1...postgresql-v1.7.0) (2025-05-23)
 
 

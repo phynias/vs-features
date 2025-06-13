@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.5.0](https://github.com/phynias/vs-features/compare/doppler-v2.4.1...doppler-v2.5.0) (2025-06-13)
+
+
+### Features
+
+* **1password:** Update version options ([954c948](https://github.com/phynias/vs-features/commit/954c948b3246f7474d8f5de6ecb908ff0c0bc986))
+* **doppler:** Update version options ([82cf2a6](https://github.com/phynias/vs-features/commit/82cf2a62d4efe9b0a7372d006f06415ebe1d1fb8))
+* **doppler:** Update version options ([937a331](https://github.com/phynias/vs-features/commit/937a331772d8a5e3de44a1f9c8654a405a132163))
+* **doppler:** Update version options ([daef022](https://github.com/phynias/vs-features/commit/daef0221f7e58126750ca70b327a21f43d4bb306))
+* Support `noble` ubuntu ([c2a251a](https://github.com/phynias/vs-features/commit/c2a251aafc58c1d121cd6f07e36d4031921ee219))
+
+
+### Bug Fixes
+
+* **doppler:** Set remote user as owner ([05fbcb6](https://github.com/phynias/vs-features/commit/05fbcb6a10bd7d6437dcf75bb9dcaec4d8e4ced8))
+* **doppler:** Setup required directories ([be31035](https://github.com/phynias/vs-features/commit/be310351e8404b79df392e2d6ac4694a95eaf496))
+* **doppler:** Setup required directories ([a929bb5](https://github.com/phynias/vs-features/commit/a929bb592bc9cf25e5072ddca2b9a5cd0d1dff7d)), closes [#14](https://github.com/phynias/vs-features/issues/14)
+* **postgresql:** Allow connections after container is recreated ([38286cb](https://github.com/phynias/vs-features/commit/38286cbd669acc58e79732ce20fb71a25ec17ac9))
+
 ## [2.4.1](https://github.com/itsmechlark/features/compare/doppler-v2.4.0...doppler-v2.4.1) (2025-05-08)
 
 
