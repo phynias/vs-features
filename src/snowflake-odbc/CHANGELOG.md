@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.3.0](https://github.com/phynias/vs-features/compare/snowflake-odbc-v1.2.1...snowflake-odbc-v1.3.0) (2025-06-13)
+
+
+### Features
+
+* **1password:** Update version options ([954c948](https://github.com/phynias/vs-features/commit/954c948b3246f7474d8f5de6ecb908ff0c0bc986))
+* **snowflake-odbc:** Support v3.2.0 ([b682dc0](https://github.com/phynias/vs-features/commit/b682dc02436af198709e4aec61711c34a009cdda))
+* **snowflake-odbc:** Support v3.3 ([c306573](https://github.com/phynias/vs-features/commit/c306573b06d692406349549590171cc9179e897c))
+* **snowflake-odbc:** Update version options ([3b3889b](https://github.com/phynias/vs-features/commit/3b3889b76b0a2a48931b5725f3e8cc6202f5014a))
+* Support `noble` ubuntu ([c2a251a](https://github.com/phynias/vs-features/commit/c2a251aafc58c1d121cd6f07e36d4031921ee219))
+
+
+### Bug Fixes
+
+* **postgresql:** Allow connections after container is recreated ([38286cb](https://github.com/phynias/vs-features/commit/38286cbd669acc58e79732ce20fb71a25ec17ac9))
+
 ## [1.2.1](https://github.com/itsmechlark/features/compare/snowflake-odbc-v1.2.0...snowflake-odbc-v1.2.1) (2025-05-08)
 
 

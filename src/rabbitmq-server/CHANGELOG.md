@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/phynias/vs-features/compare/rabbitmq-server-v1.1.1...rabbitmq-server-v1.2.0) (2025-06-13)
+
+
+### Features
+
+* Support `noble` ubuntu ([c2a251a](https://github.com/phynias/vs-features/commit/c2a251aafc58c1d121cd6f07e36d4031921ee219))
+
+
+### Bug Fixes
+
+* **postgresql:** Allow connections after container is recreated ([38286cb](https://github.com/phynias/vs-features/commit/38286cbd669acc58e79732ce20fb71a25ec17ac9))
+
 ## [1.1.1](https://github.com/itsmechlark/features/compare/rabbitmq-server-v1.1.0...rabbitmq-server-v1.1.1) (2025-05-08)
 
 
