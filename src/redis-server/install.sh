@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# test
 
 REDIS_SERVER_VERSION=${VERSION:-"latest"}
 REDIS_SERVER_ARCHIVE_ARCHITECTURES="amd64 arm64 i386 ppc64el"
